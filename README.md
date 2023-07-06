@@ -9,8 +9,6 @@ Key Features:
 * Precise Conversion Algorithms: Ensure accuracy and reliability in currency conversions.
 * Real-time Exchange Rates: Analyze currency trends by accessing real-time data.
 
-Visit page: https://mukesh-bhute.github.io/Currency-Converter-API/
-
 Contributions from the developer community are always welcome. Feel free to open issues, submit pull requests, and help improve the functionality and performance of the Currency Converter API.
 
 Explore the Currency Converter API today and empower your applications with seamless currency conversion capabilities.
